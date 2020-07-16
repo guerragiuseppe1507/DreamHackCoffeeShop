@@ -14,3 +14,20 @@ code {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+
+body {
+  background: #131516;
+  color: #8a979e;
+}
+
+p, a, td, th, span {
+  color: #8a979e!important;
+}
+
+strong, h1, h2, h3{
+    color: #FFF;
+}
+
+ngb-carousel .carousel-item img{
+    width: 100%;
+}
